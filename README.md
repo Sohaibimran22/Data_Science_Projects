@@ -79,11 +79,6 @@ Limitations
 The proposed method also detects the motion due to the movement in air. As the air moves, the camera not remains in the position of static so when there is no movement of object then also it results motion and shows holes in the binary output image.[3]
 
 
-
-
-
-
-
 Motivation to choose this theory 
 
 The following methodology provide a complex method of learning outcomes of computer vision on live detection of object including flower, human face as well, now a days due to COVID-19 many applications are being designed for social distance, through live detection body temperature measurement, Face-mask detection are also being in discussion. Following are the useful Implementations of the object detection.
@@ -99,16 +94,6 @@ Object Avoidance Object Avoidance
 Automatic Guidance 
 Head Tracking for Video Head Tracking for Video Conferencing
 Hence it was getting really attractive topic for discussion now a days so we decided to work on it secondly it was a great experience to work on latest technologies, we will be willing to work more in future and embedded on hardware devices as well.
-
-Workflow Diagram
-
-
-
-
-
-
-
-
 
 Result:
 
