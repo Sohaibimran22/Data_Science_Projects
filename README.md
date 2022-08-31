@@ -2,7 +2,9 @@ Motion Detection and tracking using python and OpenCV
 
 
 
-Introduction:
+
+https://user-images.githubusercontent.com/20885138/187669707-2f027ad8-3adf-446f-8e58-679ed3b193d3.mp4
+:
 
 Object Detection is a well-known computer technology combined with computer vison and image processing that focuses on detecting objects or its instances of certain class such as human flowers and animals in digital images and videos.
 There are various applications of object detection that have been well researched including face detection and character recognitions, and vehicle calculator. 
